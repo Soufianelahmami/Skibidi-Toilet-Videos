@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uN0Q.webp",
+            "title": "Skibidi Toilet Videos 1",
+            "text_Content_": "Challenge your viewers to do the Skibidi dance while using the toilet. They can film themselves doing the dance while sitting on the toilet, with the toilet lid down, of course, for a humorous twist"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uwqx.webp",
+            "title": "Skibidi Toilet Videos 2",
+            "text_Content_": "Create a remix of the Skibidi song with toilet-related sound effects or lyrics. Overlay the remix on a video of you or others doing the Skibidi dance near a toilet or even inside a bathroom"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uwqx.webp",
+            "title": "Skibidi Toilet Videos 3",
+            "text_Content_": "Create a humorous parody of the Skibidi music video but set in a bathroom or toilet-themed setting. You can change the lyrics to be about bathroom humor and use creative props"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uXWb.webp",
+            "title": "Skibidi Toilet Videos 4",
+            "text_Content_": "Share a DIY tutorial on how to make a Skibidi-themed toilet paper holder, bathroom wall art, or any other bathroom decor related to the Skibidi dance"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uWzu.webp",
+            "title": "Skibidi Toilet Videos 5",
+            "text_Content_": "Create an informative yet humorous video about interesting toilet-related facts, all while doing the Skibidi dance in the background. For example, discuss the history of toilets or unusual toilet inventions"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uGe9.webp",
+            "title": "Skibidi Toilet Videos 6",
+            "text_Content_": "Collect and compile short clips of people doing the Skibidi dance in various bathroom settings and create a funny montage"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uMbe.webp",
+            "title": "Skibidi Toilet Videos 7",
+            "text_Content_": "Teach your audience how to do the Skibidi dance step by step while incorporating toilet-themed humor into your instructions."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6uE57.webp",
+            "title": "Skibidi Toilet Videos 8",
+            "text_Content_": "Challenge your viewers to a Skibidi dance-off in their bathrooms and encourage them to share their videos with a specific hashtag."
         }
     ]
 }
